@@ -1,6 +1,6 @@
-## Chois!
+## Chois! (In Progress)
 
-더 나은 경험의 대학정보시스템을 선사합니다
+더 나은 경험의 대학정보시스템을 선사합니다(할 예정입니다)
 
 ### 🖥️ Project Tech Stacks
 - 백엔드: SpringBoot 3.0, Kotlin, MySQL(Aurora Serverless)
